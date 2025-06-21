@@ -1,104 +1,108 @@
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Poppins:wght@400;600&family=Work+Sans:wght@400;500&display=swap');
+.landing-page{
 
-body {
-  margin: 0;
-  padding: 0;
-  font-family: 'Poppins', sans-serif;
-  background-color: #f2f4f8;
+    height: fit-content;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
-.landing-page {
-  width: 100%;
-  height: 100vh;
-  overflow: hidden;
+.landing-hero{
+
+    background: url('../images/landing-bg.jpg');
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.landing-hero {
-  height: 100vh;
-  width: 100%;
-  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
-    url('../images/landing-bg.jpg') center/cover no-repeat;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+.landing-nav{
+    
+    display: flex;
+    justify-content: space-between;
+    height: 20vh;
+    padding: 0 2vw;
+    align-items: center;
 }
 
-.landing-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 2vh 3vw;
-  height: 10vh;
-  backdrop-filter: blur(10px);
+.landing-nav h3{
+
+    margin: 0;
+    font-size: 2rem;
+    color: rgb(248, 242, 242);
+    font-family: 'Kaushan Script', cursive;
 }
 
-.landing-nav h3 {
-  margin: 0;
-  font-size: 2.5rem;
-  color: #fff;
-  font-family: 'Kaushan Script', cursive;
-  cursor: pointer;
+.landing-nav button{
+
+    padding: 10px 30px;
+    font-size: 1rem;
+    background-color: #c9ced200;
+    border: 1.5px solid #f1e1e1;
+    color: #eddcdc;
+    border-radius: 3rem;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
 }
 
-.landing-nav button {
-  padding: 12px 28px;
-  font-size: 1rem;
-  background: transparent;
-  border: 2px solid #ffffffa6;
-  color: #ffffffde;
-  border-radius: 50px;
-  font-weight: 600;
-  transition: 0.3s ease;
-  backdrop-filter: blur(4px);
+.landing-nav button:hover{
+
+    padding: 10px 30px;
+    font-size: 1rem;
+    background-color: #06010ae7;
+    border: 1.5px solid #da4a4a43;
+    color: #ffffffee;
+
+    border-radius: 3rem;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
 }
 
-.landing-nav button:hover {
-  background-color: #ffffff;
-  color: #111;
-  box-shadow: 0 4px 14px rgba(255, 255, 255, 0.2);
+.landing-hero-text{
+
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 10vh;
+    text-align: center;
+    color: #ffffffee;
 }
 
-/* ===== Hero Text Section ===== */
-.landing-hero-text {
-  text-align: center;
-  padding: 0 10%;
-  margin-bottom: 10vh;
-  color: #fff;
+.landing-hero-text h1{
+
+    font-size: 3.5rem;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
-.landing-hero-text h1 {
-  font-size: 3.2rem;
-  font-weight: 700;
-  line-height: 1.3;
-  margin-bottom: 20px;
-  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+
+.landing-hero-text p{
+
+    font-family: 'Work Sans', sans-serif;
+    color: #ffffffb8;
 }
 
-.landing-hero-text p {
-  font-size: 1.1rem;
-  font-weight: 400;
-  color: #f0f0f0c2;
-  line-height: 1.7;
-  max-width: 800px;
-  margin: auto;
+.landing-hero-text button{
+
+    margin-top: 20px;
+    padding: 10px 30px;
+    font-size: 1rem;
+    background-color: #c9ced200;
+    border: 1.5px solid #e1d5d5ab;
+    color: #e1d5d5ab;
+    border-radius: 3rem;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
 }
 
-.landing-hero-text button {
-  margin-top: 30px;
-  padding: 12px 35px;
-  font-size: 1rem;
-  background-color: #ffffff;
-  color: #0d0d0d;
-  border: none;
-  border-radius: 50px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: 0.3s ease;
-  box-shadow: 0 6px 20px rgba(255, 255, 255, 0.3);
+.landing-hero-text button:hover{
+
+    padding: 10px 30px;
+    font-size: 1rem;
+    background-color: #06010ae7;
+    border: 1.5px solid #e1d5d567;
+    color: #e1d5d5c4;
+    border-radius: 3rem;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
 }
 
-.landing-hero-text button:hover {
-  background-color: #f9f9f9;
-  color: #007bff;
-  transform: translateY(-2px);
-}

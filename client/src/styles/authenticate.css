@@ -8,7 +8,7 @@ body {
   background-attachment: fixed;
 }
 
-/* ===== Main Container ===== */
+/* ===== Authenticate Page Container ===== */
 .AuthenticatePage {
   min-height: 100vh;
   width: 100%;
@@ -16,7 +16,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url('https://apploye.com/blog/content/images/2023/09/best-freelance-websites.png'); /* Optional: add a subtle background */
+  background-image: url('../images/auth.png');
   background-size: cover;
   background-position: center;
   backdrop-filter: blur(2px);
@@ -51,7 +51,7 @@ body {
   cursor: pointer;
 }
 
-/* ===== Auth Card ===== */
+/* ===== Auth Form Card ===== */
 .authForm {
   margin-top: 15vh;
   background: rgba(255, 255, 255, 0.7);
@@ -63,11 +63,12 @@ body {
   padding: 30px;
   text-align: center;
   border: 2px solid #cb7c7c;
-  transition: transform 0.3s ease;
+  animation: slideIn 0.5s ease;
 }
 
 .authForm:hover {
-  transform: translateY(-5px);
+  transform: translateY(-3px);
+  transition: 0.3s ease;
 }
 
 .authForm h2 {
@@ -141,19 +142,45 @@ body {
   text-decoration: underline;
 }
 
-/* ===== Responsive ===== */
-@media screen and (max-width: 600px) {
-  .authForm {
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
+/* ===== Animation ===== */
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
   }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
 
+/* ===== Responsive Design ===== */
+@media screen and (max-width: 768px) {
   .auth-navbar h3 {
     font-size: 1.5rem;
   }
 
   .auth-navbar p {
     font-size: 0.9rem;
+  }
+
+  .authForm {
+    margin-top: 13vh;
+    width: 90%;
+    padding: 25px;
+  }
+
+  .authForm h2 {
+    font-size: 1.6rem;
+  }
+
+  .authFormInputs input,
+  .authForm select {
+    font-size: 0.95rem;
+  }
+
+  .authForm button {
+    font-size: 0.95rem;
+    padding: 12px;
   }
 }
