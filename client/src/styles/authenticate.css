@@ -23,7 +23,7 @@
     
     font-family: 'Kaushan Script', cursive;
     margin: 0;
-    color: rgba(239, 154, 117, 0.916);
+    color: red;
 }
 
 .auth-navbar p{
@@ -31,14 +31,14 @@
     font-family: 'Poppins', sans-serif;
     margin: 0;
     margin-left: 2vw;
-    color: rgba(137, 134, 132, 0.916);
+    color:red;
     font-weight: 600;
     cursor: pointer;
 }
 
 .authForm{
     margin-top: 15vh;
-    /* border: 1px solid #cb7c7c; */
+    border: 2px solid #cb7c7c;
     padding: 20px;
     width: 34%;
     margin-left: 33%;
@@ -59,7 +59,7 @@
 .authForm h2{
     margin-bottom: 20px;
     font-family: 'Poppins', sans-serif;
-    color: rgb(0, 79, 135);
+    color: rgb(8, 139, 233);
     font-size: 1.8rem;
 }
 .authFormInputs {
@@ -84,7 +84,7 @@
     border: none;
     outline: none;
     background-color: rgba(231, 235, 235, 0);
-    border: 1px solid #9dc1d975;
+    border: 1px solid #030f1675;
     font-size: medium;
     padding: 15px 10px;
 }

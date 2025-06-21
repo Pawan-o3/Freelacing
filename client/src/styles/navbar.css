@@ -5,7 +5,6 @@
     justify-content: space-between;
     padding-left: 2vw;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
-    /* background-color: #141414; */
 }
 
 .navbar h3{
@@ -18,16 +17,17 @@
     display: flex;
     width: 40%;
     justify-content: space-evenly;
+    
 }
 
 .nav-options p{
     margin: 0;
-    color: rgb(137, 135, 135);
+    color: rgb(10, 1, 1);
     cursor: pointer;
 }
 
 .nav-options p:hover{
 
-    color: rgb(57, 57, 57);
+    color: red;
     font-weight: 500;
 }
