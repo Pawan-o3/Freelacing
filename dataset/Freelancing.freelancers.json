@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "685509a21fc63d2aa2262563"
+  },
+  "userId": "685509a21fc63d2aa2262561",
+  "skills": [
+    "HTML  CSS  JavaScript  React.js "
+  ],
+  "description": " ER.Pawan \nI am a Mern Developer",
+  "currentProjects": [
+    {
+      "$oid": "6855350fef83c764fb3a8fe7"
+    }
+  ],
+  "completedProjects": [
+    {
+      "$oid": "685508911fc63d2aa2262526"
+    },
+    {
+      "$oid": "685535a4ef83c764fb3a8ffd"
+    }
+  ],
+  "applications": [
+    {
+      "$oid": "68550a251fc63d2aa2262580"
+    },
+    {
+      "$oid": "68553a55ef83c764fb3a916d"
+    },
+    {
+      "$oid": "68558d7b79c17e9c3331ebfe"
+    },
+    {
+      "$oid": "68558d8279c17e9c3331ec06"
+    }
+  ],
+  "funds": 6800,
+  "__v": 13
+},
+{
+  "_id": {
+    "$oid": "68555e6c3c03e4c3234bb1a9"
+  },
+  "userId": "68555e6c3c03e4c3234bb1a7",
+  "skills": [
+    "Python",
+    "Node.js"
+  ],
+  "description": "Gopal \nI am game developer",
+  "currentProjects": [
+    {
+      "$oid": "68555e3d3c03e4c3234bb19b"
+    }
+  ],
+  "completedProjects": [],
+  "applications": [
+    {
+      "$oid": "68555f123c03e4c3234bb1c4"
+    }
+  ],
+  "funds": 0,
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "685682e20f952ba2a2fdf713"
+  },
+  "userId": "685682e20f952ba2a2fdf711",
+  "skills": [
+    "react",
+    "nodejs",
+    "mongo",
+    "html",
+    "css"
+  ],
+  "description": "i am full stack developer",
+  "currentProjects": [
+    {
+      "$oid": "685682a80f952ba2a2fdf707"
+    }
+  ],
+  "completedProjects": [
+    {
+      "$oid": "685682a80f952ba2a2fdf707"
+    }
+  ],
+  "applications": [
+    {
+      "$oid": "685683680f952ba2a2fdf735"
+    },
+    {
+      "$oid": "685683680f952ba2a2fdf741"
+    },
+    {
+      "$oid": "685683680f952ba2a2fdf738"
+    },
+    {
+      "$oid": "685683690f952ba2a2fdf74a"
+    }
+  ],
+  "funds": 6000,
+  "__v": 8
+}]

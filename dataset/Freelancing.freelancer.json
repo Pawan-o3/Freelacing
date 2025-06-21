@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "685280d78c1e9446077d18ae"
+  },
+  "userId": "685280d78c1e9446077d18ac",
+  "skills": [],
+  "description": "",
+  "currentProjects": [],
+  "completedProjects": [],
+  "applications": [],
+  "funds": 0,
+  "__v": 0
+}]

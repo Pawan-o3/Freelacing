@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "685508911fc63d2aa2262526"
+  },
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "title": "Personal Portfolio Website",
+  "description": "📝 Project Description:\nCreate a responsive, one-page personal portfolio website for a client (e.g., freelancer, developer, designer). The website should include the following sections:\n\nHome (introduction)\n\nAbout (bio and skills)\n\nProjects (list of previous work with images/links)\n\nContact (form to send an email)",
+  "budget": 2800,
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js "
+  ],
+  "bids": [
+    "685509a21fc63d2aa2262561"
+  ],
+  "bidAmounts": [
+    2800
+  ],
+  "postedDate": "Fri Jun 20 2025 12:36:57 GMT+0530 (India Standard Time)",
+  "status": "Completed",
+  "submission": true,
+  "submissionAccepted": true,
+  "projectLink": "https://github.com/Pawan-o3",
+  "manulaLink": "https://github.com/Pawan-o3",
+  "submissionDescription": "Work is fully done",
+  "__v": 1,
+  "freelancerId": "685509a21fc63d2aa2262561",
+  "freelancerName": "rahul@123"
+},
+{
+  "_id": {
+    "$oid": "68553457ef83c764fb3a8fd7"
+  },
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "title": "Online Resume Builder",
+  "description": "I want a tool where users can enter their information and generate a printable/downloadable resume in PDF format.",
+  "budget": 5000,
+  "skills": [
+    "React.js",
+    "Git",
+    "Firebase",
+    "Netlify"
+  ],
+  "bids": [],
+  "bidAmounts": [],
+  "postedDate": "Fri Jun 20 2025 15:43:43 GMT+0530 (India Standard Time)",
+  "status": "Available",
+  "submission": false,
+  "submissionAccepted": false,
+  "projectLink": "",
+  "manulaLink": "",
+  "submissionDescription": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685534b0ef83c764fb3a8fe3"
+  },
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "title": " Product Showcase Website (Non-E-commerce)",
+  "description": "I sell handmade products and want a basic website to display them with images, price, and a WhatsApp order button.",
+  "budget": 6000,
+  "skills": [
+    "HTML",
+    " CSS",
+    " JavaScript  ",
+    " CSS or Bootstrap  ",
+    "WhatsApp API / Linking  ",
+    "Netlify / Firebase Hosting"
+  ],
+  "bids": [],
+  "bidAmounts": [],
+  "postedDate": "Fri Jun 20 2025 15:45:12 GMT+0530 (India Standard Time)",
+  "status": "Available",
+  "submission": false,
+  "submissionAccepted": false,
+  "projectLink": "",
+  "manulaLink": "",
+  "submissionDescription": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6855350fef83c764fb3a8fe7"
+  },
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "title": "Workshop/Event Website with Registration",
+  "description": "I need a website to promote my upcoming workshop, include speaker info, agenda, and a registration form.",
+  "budget": 5000,
+  "skills": [
+    "HTML",
+    " CSS",
+    " JavaScript ",
+    "Google Forms / Firebase  ",
+    "Hosting (GitHub Pages / Netlify)"
+  ],
+  "bids": [
+    "685509a21fc63d2aa2262561",
+    "685509a21fc63d2aa2262561"
+  ],
+  "bidAmounts": [
+    5000,
+    0
+  ],
+  "postedDate": "Fri Jun 20 2025 15:46:47 GMT+0530 (India Standard Time)",
+  "status": "Assigned",
+  "submission": false,
+  "submissionAccepted": false,
+  "projectLink": "",
+  "manulaLink": "",
+  "submissionDescription": "",
+  "__v": 2,
+  "freelancerId": "685509a21fc63d2aa2262561",
+  "freelancerName": "rahul@123"
+},
+{
+  "_id": {
+    "$oid": "685535a4ef83c764fb3a8ffd"
+  },
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "title": "Online Feedback Collection System",
+  "description": "I need a system where users can submit feedback, and I can view and manage that feedback on a dashboard.",
+  "budget": 4000,
+  "skills": [
+    "React.js",
+    "Firebase (Firestore for DB + Auth) or MongoDB + Node.js  Chart.js",
+    "CSS"
+  ],
+  "bids": [
+    "685509a21fc63d2aa2262561"
+  ],
+  "bidAmounts": [
+    4000
+  ],
+  "postedDate": "Fri Jun 20 2025 15:49:16 GMT+0530 (India Standard Time)",
+  "status": "Completed",
+  "submission": true,
+  "submissionAccepted": true,
+  "projectLink": "www.google.com",
+  "manulaLink": "www.google.com",
+  "submissionDescription": "work done",
+  "__v": 1,
+  "freelancerId": "685509a21fc63d2aa2262561",
+  "freelancerName": "rahul@123"
+},
+{
+  "_id": {
+    "$oid": "68555e3d3c03e4c3234bb19b"
+  },
+  "clientId": "68555d4e3c03e4c3234bb197",
+  "clientName": "anshu",
+  "clientEmail": "ansh@123",
+  "title": "Ghost Game",
+  "description": "Ghost game is game in which a person is enscape from the haunted house and have intractive interface ",
+  "budget": 8000,
+  "skills": [
+    "Python",
+    "react",
+    "mongodb",
+    "node js"
+  ],
+  "bids": [
+    "68555e6c3c03e4c3234bb1a7"
+  ],
+  "bidAmounts": [
+    8000
+  ],
+  "postedDate": "Fri Jun 20 2025 18:42:29 GMT+0530 (India Standard Time)",
+  "status": "Assigned",
+  "submission": false,
+  "submissionAccepted": false,
+  "projectLink": "",
+  "manulaLink": "",
+  "submissionDescription": "",
+  "__v": 1,
+  "freelancerId": "68555e6c3c03e4c3234bb1a7",
+  "freelancerName": "go@123"
+},
+{
+  "_id": {
+    "$oid": "685682a80f952ba2a2fdf707"
+  },
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "title": "freeliner website",
+  "description": "i want to create a freelincer website",
+  "budget": 6000,
+  "skills": [
+    "react",
+    "mongo",
+    "nodejs"
+  ],
+  "bids": [
+    "685682e20f952ba2a2fdf711",
+    "685682e20f952ba2a2fdf711",
+    "685682e20f952ba2a2fdf711",
+    "685682e20f952ba2a2fdf711"
+  ],
+  "bidAmounts": [
+    6000,
+    6000,
+    6000,
+    6000
+  ],
+  "postedDate": "Sat Jun 21 2025 15:30:08 GMT+0530 (India Standard Time)",
+  "status": "Completed",
+  "submission": true,
+  "submissionAccepted": true,
+  "projectLink": "www.google.com",
+  "manulaLink": "www.google.com",
+  "submissionDescription": "work is done",
+  "__v": 4,
+  "freelancerId": "685682e20f952ba2a2fdf711",
+  "freelancerName": "Pawan@123"
+}]

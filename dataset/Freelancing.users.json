@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "685280438c1e9446077d189a"
+  },
+  "username": "Pawan",
+  "email": "admin@123",
+  "password": "$2b$10$5.LfiW941ucVzEQtyBZ5QeEboUmFv0DHkd840vilaxZWC7bE3oBjW",
+  "usertype": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685280738c1e9446077d18a2"
+  },
+  "username": "rahul",
+  "email": "client@123",
+  "password": "$2b$10$gfFXAArZCA3Nj./wT3sA9OWDImOAUUMl4s8/.KYnmnlZ0XVnGmGd.",
+  "usertype": "client",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685509a21fc63d2aa2262561"
+  },
+  "username": "Rahul",
+  "email": "rahul@123",
+  "password": "$2b$10$9gYyu77tCmVT7dWrHsvPUOKmKVCbOzLFOweQSkL3cD0wjlRGz3khK",
+  "usertype": "freelancer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68555d4e3c03e4c3234bb197"
+  },
+  "username": "kavya",
+  "email": "kavya@123",
+  "password": "$2b$10$kQ.C.oPURoseB85RstbhjulO.xyqPzfBFhyZAZfNtgzHe9NrmfZIa",
+  "usertype": "client",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68555e6c3c03e4c3234bb1a7"
+  },
+  "username": "Gopal",
+  "email": "go@123",
+  "password": "$2b$10$Dtjeo28vuqFPqSeDUnJbQOfP0Qqfs2wdSHEG4WLb2L4./boYKGXHq",
+  "usertype": "freelancer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685584fd79c17e9c3331eb0a"
+  },
+  "username": "",
+  "email": "",
+  "password": "$2b$10$.XsrmWs3gea5fbHEpfUIru.56qBHkMI3Al06nnXFdenbMXvwurJY.",
+  "usertype": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685682e20f952ba2a2fdf711"
+  },
+  "username": "Pawan",
+  "email": "Pawan@123",
+  "password": "$2b$10$z461sYIf1DnA6lRqbI7ZqeDlzkugx65VCjVQOQJg6qi1ReAflb3Wm",
+  "usertype": "freelancer",
+  "__v": 0
+}]

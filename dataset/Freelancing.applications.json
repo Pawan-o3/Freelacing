@@ -1,0 +1,275 @@
+[{
+  "_id": {
+    "$oid": "68550a251fc63d2aa2262580"
+  },
+  "projectId": "685508911fc63d2aa2262526",
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "freelancerId": "685509a21fc63d2aa2262561",
+  "freelancerName": "Rahul",
+  "freelancerEmail": "rahul@123",
+  "freelancerSkills": [
+    "HTML  CSS  JavaScript  React.js"
+  ],
+  "title": "Personal Portfolio Website",
+  "description": "📝 Project Description:\nCreate a responsive, one-page personal portfolio website for a client (e.g., freelancer, developer, designer). The website should include the following sections:\n\nHome (introduction)\n\nAbout (bio and skills)\n\nProjects (list of previous work with images/links)\n\nContact (form to send an email)",
+  "budget": 3000,
+  "requiredSkills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js "
+  ],
+  "proposal": "Hello\n\nI hope you're doing well!\n\nI'm excited to offer my services for building your Personal Portfolio Website. As a web developer with experience in creating clean, responsive, and user-friendly websites, I can help you build an online presence that showcases your work professionally.\n\n",
+  "bidAmount": 2800,
+  "estimatedTime": 5,
+  "status": "Accepted",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68553a55ef83c764fb3a916d"
+  },
+  "projectId": "685535a4ef83c764fb3a8ffd",
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "freelancerId": "685509a21fc63d2aa2262561",
+  "freelancerName": "Rahul",
+  "freelancerEmail": "rahul@123",
+  "freelancerSkills": [
+    "HTML  CSS  JavaScript  React.js"
+  ],
+  "title": "Online Feedback Collection System",
+  "description": "I need a system where users can submit feedback, and I can view and manage that feedback on a dashboard.",
+  "budget": 5000,
+  "requiredSkills": [
+    "React.js",
+    "Firebase (Firestore for DB + Auth) or MongoDB + Node.js  Chart.js",
+    "CSS"
+  ],
+  "proposal": "Helps organizations or educators gather feedback efficiently and monitor it in real time.",
+  "bidAmount": 4000,
+  "estimatedTime": 6,
+  "status": "Accepted",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68555f123c03e4c3234bb1c4"
+  },
+  "projectId": "68555e3d3c03e4c3234bb19b",
+  "clientId": "68555d4e3c03e4c3234bb197",
+  "clientName": "anshu",
+  "clientEmail": "ansh@123",
+  "freelancerId": "68555e6c3c03e4c3234bb1a7",
+  "freelancerName": "Gopal",
+  "freelancerEmail": "go@123",
+  "freelancerSkills": [
+    "Python",
+    "Node.js"
+  ],
+  "title": "Ghost Game",
+  "description": "Ghost game is game in which a person is enscape from the haunted house and have intractive interface ",
+  "budget": 6000,
+  "requiredSkills": [
+    "Python",
+    "react",
+    "mongodb",
+    "node js"
+  ],
+  "proposal": "I have experince in game developement ",
+  "bidAmount": 8000,
+  "estimatedTime": 30,
+  "status": "Accepted",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68558d7b79c17e9c3331ebfe"
+  },
+  "projectId": "6855350fef83c764fb3a8fe7",
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "freelancerId": "685509a21fc63d2aa2262561",
+  "freelancerName": "Rahul",
+  "freelancerEmail": "rahul@123",
+  "freelancerSkills": [
+    "HTML  CSS  JavaScript  React.js"
+  ],
+  "title": "Workshop/Event Website with Registration",
+  "description": "I need a website to promote my upcoming workshop, include speaker info, agenda, and a registration form.",
+  "budget": 4000,
+  "requiredSkills": [
+    "HTML",
+    " CSS",
+    " JavaScript ",
+    "Google Forms / Firebase  ",
+    "Hosting (GitHub Pages / Netlify)"
+  ],
+  "proposal": "done this kind of project before ",
+  "bidAmount": 5000,
+  "estimatedTime": 60,
+  "status": "Accepted",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68558d8279c17e9c3331ec06"
+  },
+  "projectId": "6855350fef83c764fb3a8fe7",
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "freelancerId": "685509a21fc63d2aa2262561",
+  "freelancerName": "Rahul",
+  "freelancerEmail": "rahul@123",
+  "freelancerSkills": [
+    "HTML  CSS  JavaScript  React.js"
+  ],
+  "title": "Workshop/Event Website with Registration",
+  "description": "I need a website to promote my upcoming workshop, include speaker info, agenda, and a registration form.",
+  "budget": 4000,
+  "requiredSkills": [
+    "HTML",
+    " CSS",
+    " JavaScript ",
+    "Google Forms / Firebase  ",
+    "Hosting (GitHub Pages / Netlify)"
+  ],
+  "proposal": "",
+  "bidAmount": 0,
+  "estimatedTime": 0,
+  "status": "Rejected",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685683680f952ba2a2fdf735"
+  },
+  "projectId": "685682a80f952ba2a2fdf707",
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "freelancerId": "685682e20f952ba2a2fdf711",
+  "freelancerName": "Pawan",
+  "freelancerEmail": "Pawan@123",
+  "freelancerSkills": [
+    "react",
+    "nodejs",
+    "mongo",
+    "html",
+    "css"
+  ],
+  "title": "freeliner website",
+  "description": "i want to create a freelincer website",
+  "budget": 5000,
+  "requiredSkills": [
+    "react",
+    "mongo",
+    "nodejs"
+  ],
+  "proposal": "i can done this project",
+  "bidAmount": 6000,
+  "estimatedTime": 6,
+  "status": "Pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685683680f952ba2a2fdf738"
+  },
+  "projectId": "685682a80f952ba2a2fdf707",
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "freelancerId": "685682e20f952ba2a2fdf711",
+  "freelancerName": "Pawan",
+  "freelancerEmail": "Pawan@123",
+  "freelancerSkills": [
+    "react",
+    "nodejs",
+    "mongo",
+    "html",
+    "css"
+  ],
+  "title": "freeliner website",
+  "description": "i want to create a freelincer website",
+  "budget": 5000,
+  "requiredSkills": [
+    "react",
+    "mongo",
+    "nodejs"
+  ],
+  "proposal": "i can done this project",
+  "bidAmount": 6000,
+  "estimatedTime": 6,
+  "status": "Pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685683680f952ba2a2fdf741"
+  },
+  "projectId": "685682a80f952ba2a2fdf707",
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "freelancerId": "685682e20f952ba2a2fdf711",
+  "freelancerName": "Pawan",
+  "freelancerEmail": "Pawan@123",
+  "freelancerSkills": [
+    "react",
+    "nodejs",
+    "mongo",
+    "html",
+    "css"
+  ],
+  "title": "freeliner website",
+  "description": "i want to create a freelincer website",
+  "budget": 5000,
+  "requiredSkills": [
+    "react",
+    "mongo",
+    "nodejs"
+  ],
+  "proposal": "i can done this project",
+  "bidAmount": 6000,
+  "estimatedTime": 6,
+  "status": "Pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685683690f952ba2a2fdf74a"
+  },
+  "projectId": "685682a80f952ba2a2fdf707",
+  "clientId": "685280738c1e9446077d18a2",
+  "clientName": "rahul",
+  "clientEmail": "client@123",
+  "freelancerId": "685682e20f952ba2a2fdf711",
+  "freelancerName": "Pawan",
+  "freelancerEmail": "Pawan@123",
+  "freelancerSkills": [
+    "react",
+    "nodejs",
+    "mongo",
+    "html",
+    "css"
+  ],
+  "title": "freeliner website",
+  "description": "i want to create a freelincer website",
+  "budget": 5000,
+  "requiredSkills": [
+    "react",
+    "mongo",
+    "nodejs"
+  ],
+  "proposal": "i can done this project",
+  "bidAmount": 6000,
+  "estimatedTime": 6,
+  "status": "Accepted",
+  "__v": 0
+}]
