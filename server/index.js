@@ -3,7 +3,7 @@ import bodyParser from 'body-parser';
 import mongoose from 'mongoose';
 import cors from 'cors';
 import bcrypt from 'bcrypt';
-import { Application, Chat, Freelancer, Project, User } from './Schema.js';
+import { Application, Chat, Freelancer, Project, User } from './models/Schema.js';
 import { Server } from 'socket.io';
 import http from 'http';
 import SocketHandler from './SocketHandler.js';

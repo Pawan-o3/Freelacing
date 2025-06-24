@@ -1,4 +1,4 @@
-import { Chat, Project } from "./Schema.js";
+import { Chat, Project } from "./models/Schema.js";
 import {v4 as uuid} from 'uuid';
 
 const SocketHandler = (socket) =>{
